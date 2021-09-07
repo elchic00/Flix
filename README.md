@@ -11,7 +11,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 `TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
-- [ ] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+- [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 
 #### BONUS
 - [ ] (2pts) Views should be responsive for both landscape/portrait mode.
@@ -25,10 +25,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+![Flixster](https://user-images.githubusercontent.com/40577932/132360067-9b2a4abb-a7da-4c5c-82e0-dd887ff206b3.gif)
 
 ### Notes
-Describe any challenges encountered while building the app.
+I got stuck loading the recyclerview dependencies in my gradle.build file. I ended up having to remove it manually. 
 
 ### Open-source libraries used
 
