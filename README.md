@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-![Flixster](https://user-images.githubusercontent.com/40577932/132360067-9b2a4abb-a7da-4c5c-82e0-dd887ff206b3.gif)
+![flix2](https://user-images.githubusercontent.com/40577932/133109398-dec65174-ad4c-4979-9534-018a55cbd598.gif)
 
 ### Notes
 I got stuck loading the recyclerview dependencies in my gradle.build file. I ended up having to remove it manually. 
