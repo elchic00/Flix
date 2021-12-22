@@ -1,6 +1,9 @@
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
+### App Walkthough GIF
+![flix2](https://user-images.githubusercontent.com/40577932/133109398-dec65174-ad4c-4979-9534-018a55cbd598.gif)
+
 ## Flix Part 1
 
 ### User Stories
@@ -16,9 +19,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
 - [ ] (2pts) Improved the user interface by experimenting with styling and coloring.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
-
-### App Walkthough GIF
-![flix2](https://user-images.githubusercontent.com/40577932/133109398-dec65174-ad4c-4979-9534-018a55cbd598.gif)
 
 ### Notes
 I got stuck loading the recyclerview dependencies in my gradle.build file. I ended up having to remove it manually. 
@@ -47,10 +47,6 @@ I got stuck loading the recyclerview dependencies in my gradle.build file. I end
 - [ ] Add a play icon overlay to popular movies to indicate that the movie can be played (1 point).
 - [ ] Apply data binding for views to help remove boilerplate code. (1 point)
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
-
-### App Walkthough GIF
-
-![flix2](https://user-images.githubusercontent.com/40577932/133109398-dec65174-ad4c-4979-9534-018a55cbd598.gif)
 
 ### Notes
 
